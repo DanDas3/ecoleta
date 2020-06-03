@@ -1,0 +1,4 @@
+[submodule "web"]
+	url = https://github.com/DanDas3/ecoleta-web
+[submodule "server"]
+	url = https://github.com/DanDas3/ecoleta-server
